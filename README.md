@@ -12,7 +12,7 @@ A `create-react-app` template that you can use to connect and create a JIRA Conn
 6. Paste the url as the `baseurl` in [atlassian-connect.json](public/atlassian-connect.json)
 7. Go to your JIRA instance and click upload app. Enter the URL of your app that you just pasted as the baseurl and append /atlassian-connect.json
      
-     * Ex `https://https://8fec0865f520.ngrok.io/atlassian-connect.jxon`
+     * Ex `https://8fec0865f520.ngrok.io/atlassian-connect.json`
 8. From the app menu, you should be able to select your app and see the create-react-app screen
 9. Profit! 💰💰
 
